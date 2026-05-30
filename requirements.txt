@@ -1,0 +1,17 @@
+# ============================================================
+#  Himanshu Bagoria — Portfolio (Static Site)
+# ============================================================
+#  This is a pure HTML / CSS / JavaScript portfolio.
+#  No Python packages are required to VIEW the site.
+#
+#  To run a local development server, Python 3 is sufficient:
+#
+#    python -m http.server 8000
+#
+#  Then open: http://localhost:8000
+#
+# ============================================================
+#  Optional: install live-reload dev server via npm
+#    npm install -g live-server
+#    live-server --port=8000
+# ============================================================
